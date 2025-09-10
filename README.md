@@ -48,7 +48,7 @@ currency-converter/
 1. Clone the repository:
 
 ```bash
-git clone <>
+git clone <https://github.com/Astha0911/Currency-Converter.git>
 ```
 
 2. Open the project folder.
@@ -70,4 +70,4 @@ git clone <>
 
 ## 👤 Author
 
-**Astha Rai** – [GitHub]()
+**Astha Rai** – [GitHub](https://github.com/Astha0911/Currency-Converter.git)
